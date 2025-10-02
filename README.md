@@ -4,11 +4,11 @@
 - Authentication Fixes
 Login: Return 401 Unauthorized if credentials are incorrect (currently returns 200 OK).
 Registration: Return 401 Unauthorized if the user already exists (currently returns 200 OK).
-- UI Enhancement
-Add a zoom-in effect on hover for each menu image.rder UI Fix
+- UI Enhancement Add a zoom-in effect on hover for each menu image.
+- Order UI Fix
 Ensure the “-” (minus) icon in the order section maintains a consistent position when the user interacts with it (e.g., when quantity changes).
 
-- O
+
 ## Table of Contents
 - [Food Ordering Web App Technical Assessment (MERN Stack)](#food-ordering-web-app-technical-assessment-mern-stack)
   - [Problems](#problems)
