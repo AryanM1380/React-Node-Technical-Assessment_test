@@ -141,6 +141,9 @@ Use the admin panel to manage orders, menu items.
 The API endpoints for the backend can be documented using tools like Postman or Swagger. Include endpoints for user authentication, menu items, orders, and more.
 
 
+## Note From Me 
+I would like to sincerely thank you for reviewing my submission. My name is Aryan, and I am passionate about building scalable and user-friendly applications using the MERN stack and modern web technologies. I truly enjoyed working on this assessment as it gave me the opportunity to demonstrate both my problem-solving ability and attention to detail.
 
+I also want to kindly apologize for the slight delay in submission. Despite the time challenge, I made sure to complete the requested fixes and enhancements carefully and to a high standard. I am excited about the possibility of contributing my skills to your team and would be glad to discuss this further during the technical interview.
 
 
